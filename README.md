@@ -1,6 +1,6 @@
 # week-9-node
 
-## 1. Implement this task using MongoDB
+## 1. Implementation of task using  using MongoDB
 
 ### Setup
 
@@ -70,7 +70,7 @@ The API you are to develop should be able to handle a transfer request of the fo
 - Only registered users can access all endpoints
 - Use mongoDB-compass for local development
 
-## Test coverage (Test is mandatory - no test equals 0 (zero) marks):
+## Test coverage:
 
 - Make sure you write test to cover your application using supertest
 - Test your database using mongodb-memory-server
@@ -80,8 +80,6 @@ The API you are to develop should be able to handle a transfer request of the fo
 - document your API with postman
 
 ## Hosting
-- Host your application on Heroku
+- Host on application on Heroku
 
 
-## 2. Mongo Aggregation Exercise.
-- Go through the readme file in the Folder `MongoAggregation`
